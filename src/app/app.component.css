@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+}
+table{
+    text-align: center;
+}
+thead{
+    background-color: yellow;
+}
+tbody{
+    background-color: greenyellow;
+}
+button{
+    align-content: center;
+}
+
